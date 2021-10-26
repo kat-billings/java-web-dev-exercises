@@ -1,8 +1,6 @@
-package exercises.chapter2;
+package exercises.chapter3;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class ArrayListPractice {
     public static void main(String[] args) {
